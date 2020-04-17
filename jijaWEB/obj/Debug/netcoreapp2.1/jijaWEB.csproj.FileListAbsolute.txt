@@ -1,0 +1,16 @@
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\bin\Debug\netcoreapp2.1\jijaWEB.deps.json
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\bin\Debug\netcoreapp2.1\jijaWEB.runtimeconfig.json
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\bin\Debug\netcoreapp2.1\jijaWEB.runtimeconfig.dev.json
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\bin\Debug\netcoreapp2.1\jijaWEB.dll
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\bin\Debug\netcoreapp2.1\jijaWEB.pdb
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\obj\Debug\netcoreapp2.1\jijaWEB.csprojAssemblyReference.cache
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\obj\Debug\netcoreapp2.1\jijaWEB.AssemblyInfoInputs.cache
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\obj\Debug\netcoreapp2.1\jijaWEB.AssemblyInfo.cs
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\obj\Debug\netcoreapp2.1\jijaWEB.dll
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\obj\Debug\netcoreapp2.1\jijaWEB.pdb
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\obj\Debug\netcoreapp2.1\jijaWEB.RazorAssemblyInfo.cache
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\obj\Debug\netcoreapp2.1\jijaWEB.RazorAssemblyInfo.cs
+C:\Users\MrPar\Desktop\Полагаич\Jija\jijaWEB\obj\Debug\netcoreapp2.1\jijaWEB.RazorTargetAssemblyInfo.cache
